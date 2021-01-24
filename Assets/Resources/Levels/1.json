@@ -1,0 +1,370 @@
+{
+    "levelId": 1,
+    "Width": 11,
+    "Height": 11,
+    "Tiles": [
+        {
+            "type": "Riser"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "Riser"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "Riser"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "Riser"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "Riser"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "Riser"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        },
+        {
+            "type": "None"
+        }
+    ]
+}
